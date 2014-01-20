@@ -1,0 +1,9 @@
+# File used to set some options for xmgrace plot
+s0 legend "  CIM Step = 4 " 
+s1 legend "  CIM Step = 4 " 
+s2 legend "  CIM Step = 4 " 
+yaxis label "SIFs" 
+xaxis label " \f{Symbol}q\f{} " 
+world xmin 1
+world xmax 123
+world ymin 0
